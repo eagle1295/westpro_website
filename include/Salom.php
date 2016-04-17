@@ -1,5 +1,5 @@
 <?php
- echo "na gap";
+ echo "na gap indi qoshil";
 /**
  * Created by PhpStorm.
  * User: Azamatov
