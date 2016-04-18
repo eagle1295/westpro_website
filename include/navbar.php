@@ -1,11 +1,9 @@
 <?php
- echo "na gap indi qoshil";
- echo "indi qoshil";
-
+    echo "yozamiz";
 /**
  * Created by PhpStorm.
  * User: Azamatov
  * Date: 18.04.2016
- * Time: 0:35
+ * Time: 8:00
  */
 ?>
