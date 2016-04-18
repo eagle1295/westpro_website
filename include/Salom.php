@@ -1,5 +1,6 @@
 <?php
  echo "na gap indi qoshil";
+
 /**
  * Created by PhpStorm.
  * User: Azamatov
